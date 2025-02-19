@@ -134,7 +134,7 @@ Encountered challenges, especially with data handling, but implemented efficient
 
 Aman Raj Singh \
 Email: rajsinghaman72@gmail.com \
-LinkedIn : <a href="https://www.linkedin.com/in/aman-raj-singh-5a59b125b/">duhanmohan</a>
+LinkedIn : <a href="https://www.linkedin.com/in/aman-raj-singh-5a59b125b/">Aman Raj Singh</a>
 ---
 
 Live Website Link
